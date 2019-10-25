@@ -18,3 +18,4 @@ npm install
 
 3. Goto the web address through Chrome/Firefox
 this is a good job done by me
+this is the first time i am learning about github. how to use this app forour future.
